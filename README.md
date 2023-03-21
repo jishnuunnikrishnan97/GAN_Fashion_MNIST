@@ -12,7 +12,7 @@ This repository demonstrates how to implement GANs on Fashion MNIST dataset. The
 
 The following dependencies are required to run the notebooks:
 
-- Python 3
+- Python 3.x
 - Jupyter Notebook
 - Numpy
 - Matplotlib
